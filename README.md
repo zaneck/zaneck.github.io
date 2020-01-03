@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## PhD subject
+Space-filling curve and multidimensional data
 
-You can use the [editor on GitHub](https://github.com/zaneck/zaneck.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Publications
+- [A genetic algorithm to solve a space-filling curve problem. SLS2019](https://hal.archives-ouvertes.fr/hal-02319253)
+- [Space-Filling Curve: A Robust Data Mining Tool. FTC2019](https://hal.archives-ouvertes.fr/hal-02297854/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Article to be
+- [Classific...](https://google.com/)
+- [On the com..](https://google.com/)
 
-### Markdown
+## Teaching
+- Introduction à la programmation (Python)
+- Programmation en langage C (C lang)
+- Administration et programmation système (C Posix)
+- Sécurité (How to write a self-reproducing virus)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zaneck/zaneck.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Contact
+  - val [dot] owczarek [at] gmail [dot] com
+  - valentin [dot] owczarek1 [at] univ [dash] lr [dot] fr
+  - for secret stuff: [keybase](https://keybase.io/zaneck)
