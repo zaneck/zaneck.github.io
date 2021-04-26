@@ -23,9 +23,9 @@ Space-filling curve and multidimensional data
 - Programmation Fonctionnelle (Haskell) (42h)
 - Conception Orientée Objet (Java) (18h)
 - Algorithmes et programmation (Python) (36h)
-- Technologie du web (HTML5, CSS3, JavaScript) (31,5h)
+- Technologies du web (HTML5, CSS3, JavaScript) (31,5h)
 - JavaScript Full Stack (node.js, socket.io, mongoDB) (18h)
-- Langages algébrique et analyse syntaxique (Python) (18h)
+- Langages algébriques et analyse syntaxique (Python) (18h)
 
 ## Contact
   - val [dot] owczarek [at] gmail [dot] com
