@@ -6,10 +6,7 @@ Space-filling curve and multidimensional data
 - A genetic algorithm to solve a space-filling curve problem. [SLS2019](https://hal.archives-ouvertes.fr/hal-02297854/)
 - Space-Filling Curve: A Robust Data Mining Tool. [FTC2019](https://hal.archives-ouvertes.fr/hal-02319253)
 - Classification of phonetic characters by space-filling curves. [DAS2020](https://hal.archives-ouvertes.fr/hal-02923691)
-
-#### Article to be
-- An alternative...
-- On the com...
+- An alternative for data visualization using space-filling curve. [DAMI](https://link.springer.com/article/10.1007/s10618-023-00943-7)
 
 ## Teaching
 #### La Rochelle Université (2017-2020)
@@ -29,5 +26,3 @@ Space-filling curve and multidimensional data
 
 ## Contact
   - val [dot] owczarek [at] gmail [dot] com
-  - valentin [dot] owczarek1 [at] univ [dash] lr [dot] fr
-  - for secret stuff: [keybase](https://keybase.io/zaneck)
