@@ -1,5 +1,5 @@
-# PhD Student
-## PhD subject
+# Free Thinker
+## PhD subject was
 Space-filling curve and multidimensional data
 
 ## Publications
