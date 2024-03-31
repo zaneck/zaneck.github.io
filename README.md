@@ -1,14 +1,20 @@
 # Free Thinker
+
+## Work for tech company
+- [Lengow](http://www.lengow.com) (nov. 2023 - ): Senior dev
+- [Captain Data](https://www.captaindata.co) (juin 2022 - avr 2023): Data scientist and more
+- [Lengow](http://www.lengow.com) (sept 2021 - mai 2022): Dev
+
 ## PhD subject was
 Space-filling curve and multidimensional data
 
-## Publications
+### Publications
 - A genetic algorithm to solve a space-filling curve problem. [SLS2019](https://hal.archives-ouvertes.fr/hal-02297854/)
 - Space-Filling Curve: A Robust Data Mining Tool. [FTC2019](https://hal.archives-ouvertes.fr/hal-02319253)
 - Classification of phonetic characters by space-filling curves. [DAS2020](https://hal.archives-ouvertes.fr/hal-02923691)
 - An alternative for data visualization using space-filling curve. [DAMI](https://link.springer.com/article/10.1007/s10618-023-00943-7)
 
-## Teaching
+### Teaching
 #### La Rochelle Université (2017-2020)
 - Introduction à la programmation (Python) (10h) 
 - Programmation en langage C (C lang) (30h)
@@ -26,3 +32,4 @@ Space-filling curve and multidimensional data
 
 ## Contact
   - val [dot] owczarek [at] gmail [dot] com
+  - [Linkedin](https://www.linkedin.com/in/valentin-owczarek/)
