@@ -1,4 +1,5 @@
 # Free Thinker
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.paypal.com/paypalme/vowczarek)
 
 ## Work for tech company
 - [Lengow](http://www.lengow.com) (nov. 2023 - ): Senior dev
