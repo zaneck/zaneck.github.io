@@ -14,6 +14,7 @@ Space-filling curve and multidimensional data
 - Space-Filling Curve: A Robust Data Mining Tool. [FTC2019](https://hal.archives-ouvertes.fr/hal-02319253)
 - Classification of phonetic characters by space-filling curves. [DAS2020](https://hal.archives-ouvertes.fr/hal-02923691)
 - An alternative for data visualization using space-filling curve. [DAMI](https://link.springer.com/article/10.1007/s10618-023-00943-7)
+- Pareto multi-objective optimization for high locality-preserving space-filling curve identification. [SEC](https://doi.org/10.1016/j.swevo.2024.101797)
 
 ### Teaching
 #### La Rochelle Université (2017-2020)
